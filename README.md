@@ -1,3 +1,3 @@
 # DESD_LABS
-Digital Electronic System Design PoliMI : Basys 3 FPGA
-Spring 2024 
+Digital Electronic System Design PoliMI Spring 2025 : Basys 3 FPGA
+ 
